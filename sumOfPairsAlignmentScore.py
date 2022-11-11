@@ -1,4 +1,4 @@
-# hw2_110761504.py
+# sumOfPairsAlignmentScore.py
 # ©©© Mequanent Argaw Muluneh ©©©
 
 # Copy the following command to run the code, with the respective path changes
