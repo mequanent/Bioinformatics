@@ -1,4 +1,4 @@
-# hw1_110761504.py
+# log_odds_of_PAM.py
 # ©©© Mequanent Argaw Muluneh ©©©
 
 # **** My Final local paths when writing and testing my code *******
