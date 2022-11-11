@@ -2,9 +2,6 @@
 # ©©© Mequanent Argaw Muluneh ©©©
 
 # **** My Final local paths when writing and testing my code *******
-# python_path C:\Users\USER\Desktop\BioInfoHW1\hw1_110761504.py
-# Input_path: C:\Users\USER\Desktop\BioInfoHW1\mut.txt
-# Output_path: C:\Users\USER\Desktop\BioInfoHW1\output.txt
 
 # Copy the following command to run the code, with the respective path changes
 # python C:\Users\USER\Desktop\BioInfoHW1\hw1_110761504.py --input C:\Users\USER\Desktop\BioInfoHW1\mut.txt --pam 250 --output C:\Users\USER\Desktop\BioInfoHW1\output.txt
