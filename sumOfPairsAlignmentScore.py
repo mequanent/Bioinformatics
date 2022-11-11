@@ -1,11 +1,6 @@
 # hw2_110761504.py
 # ©©© Mequanent Argaw Muluneh ©©©
 
-# **** My Final local paths when writing and testing my code *******
-# python_path C:\Users\USER\Desktop\BioInfoHW2\hw2_110761504.py
-# Input_path: C:\Users\USER\Desktop\BioInfoHW2\test.fasta
-# Score_path: C:\Users\USER\Desktop\BioInfoH2\pam250.txt
-
 # Copy the following command to run the code, with the respective path changes
 # python C:\Users\USER\Desktop\BioInfoHW2\hw2_110761504.py --input C:\Users\USER\Desktop\BioInfoHW2\test.fasta --score C:\Users\USER\Desktop\BioInfoHW2\pam250.txt --gopen -10 --gextend -2
 # The arguments (--input test.fasta --score pam250.txt --gopen -10 --gextend -2) can be shuffled
@@ -92,7 +87,6 @@ score = preprocess_score(score_path) # score made a data frame to access its val
                   # alphabet indices
 # ***************** End of score matrix preprocessing *************************************
 # *****************************************************************************************
-
 
 # *****************************************************************************************
 # **************** A function to determine pairwise alignment score ***********************
