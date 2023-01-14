@@ -43,9 +43,9 @@ Rscript hw2_studentID.R --input data/test3.fasta --score pam/pam1.txt --gap -5
 ```
 
 ```Python
-python3 hw2_studentID.R --input test.fasta --score pam250.txt --gap -10
-python3 hw2_studentID.R --input test2.fasta --score pam100.txt --gap -8
-python3 hw2_studentID.R --input data/test3.fasta --score pam/pam1.txt --gap -5
+python3 hw2_studentID.py --input test.fasta --score pam250.txt --gap -10
+python3 hw2_studentID.py --input test2.fasta --score pam100.txt --gap -8
+python3 hw2_studentID.py --input data/test3.fasta --score pam/pam1.txt --gap -5
 ```
 
 
