@@ -28,7 +28,7 @@ Rscript hw2_studentID.R --input test.fasta --score pam250.txt --gap -10
 ```
 
 ```Python
-python3 hw2_studentID.R --input test.fasta --score pam250.txt --gap -10
+python3 hw2_studentID.py --input test.fasta --score pam250.txt --gap -10
 ```
 The answer is 999. You should print it on the screen.
 
